@@ -10,8 +10,8 @@ $ npm install pattern-validators
 ### bower
 ```
 $ bower install pattern-validators
-
-## LICENCE
+```
+### LICENCE
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 1, December 2016
 
